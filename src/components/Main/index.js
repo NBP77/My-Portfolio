@@ -1,12 +1,13 @@
 import React from "react";
 
-const Home = () => {
-
+function Main() {
   return (
     <div>
-    
+
+       
+   
     </div>
   );
-};
+}
 
-export default Home;
+export default Main;

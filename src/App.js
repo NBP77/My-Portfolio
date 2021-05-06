@@ -1,22 +1,22 @@
 import React from "react";
-import Home from "./components/Home";
-import Header from "./components/Home";
-import Footer from "./components/Footer";
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import Main from "./components/Main/index.js";
+import Header from "./components/Header/index.js";
+import Footer from "./components/Footer/index.js";
+
 
 
 function App() {
   return (
-    <Router>
+   
       <div>
         <Header />
        
-          <Route exact path="/" component={Home} />
-          
+          <Main />
+        
         
         <Footer />
       </div>
-    </Router>
+
   );
 }
 

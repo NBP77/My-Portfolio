@@ -1,0 +1,32 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    font-size: 40px;
+    color: var(--slime-green);
+   
+}
+  
+
+
+.nav-links {
+    list-style: none;
+
+}
+
+.nav-links li { 
+    display: inline-block;
+    padding: 10px;
+    font-weight: bold;
+    
+}
+
+
+.nav-links li a {
+    transition: all 0.3s ;  
+}
+
+.nav-links li a:hover {
+    color: var(--slime-green);
+}

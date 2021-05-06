@@ -1,9 +1,10 @@
 import React from "react";
+import "./style.css";
 
-
-const Header = () => {
+function Header() {
     
     return (
+      <div>
         <header>
         <h1>Nick Pendergast</h1>
         <nav class="nav-links">
@@ -14,6 +15,7 @@ const Header = () => {
           </ul>
         </nav>
         </header>
+        </div>
     );
   };
 
