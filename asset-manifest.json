@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Professional-Portfolio/static/css/main.d22c7a2d.chunk.css",
+    "main.js": "/Professional-Portfolio/static/js/main.478ccb40.chunk.js",
+    "main.js.map": "/Professional-Portfolio/static/js/main.478ccb40.chunk.js.map",
+    "runtime-main.js": "/Professional-Portfolio/static/js/runtime-main.daa28a19.js",
+    "runtime-main.js.map": "/Professional-Portfolio/static/js/runtime-main.daa28a19.js.map",
+    "static/js/2.1880d5e6.chunk.js": "/Professional-Portfolio/static/js/2.1880d5e6.chunk.js",
+    "static/js/2.1880d5e6.chunk.js.map": "/Professional-Portfolio/static/js/2.1880d5e6.chunk.js.map",
+    "index.html": "/Professional-Portfolio/index.html",
+    "static/css/main.d22c7a2d.chunk.css.map": "/Professional-Portfolio/static/css/main.d22c7a2d.chunk.css.map",
+    "static/js/2.1880d5e6.chunk.js.LICENSE.txt": "/Professional-Portfolio/static/js/2.1880d5e6.chunk.js.LICENSE.txt",
+    "static/media/budgetTracker.5234381a.png": "/Professional-Portfolio/static/media/budgetTracker.5234381a.png",
+    "static/media/eecommerceBackend.4624699a.png": "/Professional-Portfolio/static/media/eecommerceBackend.4624699a.png",
+    "static/media/employeeDirectory.ec968fa3.png": "/Professional-Portfolio/static/media/employeeDirectory.ec968fa3.png",
+    "static/media/groupie.9663bd3b.png": "/Professional-Portfolio/static/media/groupie.9663bd3b.png",
+    "static/media/linkedInPic.4b6b45b8.jpg": "/Professional-Portfolio/static/media/linkedInPic.4b6b45b8.jpg",
+    "static/media/parkFinder.f6ea6e69.png": "/Professional-Portfolio/static/media/parkFinder.f6ea6e69.png",
+    "static/media/workDay.6203042b.png": "/Professional-Portfolio/static/media/workDay.6203042b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.daa28a19.js",
+    "static/js/2.1880d5e6.chunk.js",
+    "static/css/main.d22c7a2d.chunk.css",
+    "static/js/main.478ccb40.chunk.js"
+  ]
+}
