@@ -8,9 +8,9 @@ import { HashRouter, Route } from "react-router-dom";
 function App() {
   return (
     <div>
-      <HashRouter>
+      <HashRouter >
         <Header />
-        <Route exact path="/home">
+        <Route exact path="/">
           <Home />
         </Route>
         <Route exact path="/projects" component={Projects} />

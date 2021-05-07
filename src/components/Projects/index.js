@@ -6,7 +6,7 @@ import workDay from "../../imgs/workDay.png";
 import eecommerceBackend from "../../imgs/eecommerceBackend.png";
 import groupie from "../../imgs/groupie.png";
 import budgetTracker from "../../imgs/budgetTracker.png";
-
+import employeeDirectory from "../../imgs/employeeDirectory.png";
 
 function Projects() {
   return (
@@ -124,8 +124,8 @@ function Projects() {
       <div class="card">
         <div class="card-image">
           <figure class="image is-3by3">
-            <a href="https://ancient-crag-04272.herokuapp.com/" target="_blank">
-            <img src={budgetTracker} alt="budgetTracker" />
+            <a href="https://nbp77.github.io/employee-directory-/" target="_blank">
+            <img src={employeeDirectory} alt="budgetTracker" />
             </a>
           </figure>
         </div>
@@ -136,8 +136,8 @@ function Projects() {
             </div>
           </div>
           <div class="content">
-          This application is a fully functioning budget tracker that allows you to 
-          add and subtract expenses online and offline.
+          This application is a Employee Directory where a user can search 
+          and filter employees from name top or bottom.
             <br />
           </div>
         </div>

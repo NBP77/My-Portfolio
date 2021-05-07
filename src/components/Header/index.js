@@ -12,9 +12,9 @@ function Header() {
           <ul>
 
      
-          <Link className="link" to="/home">About Me</Link>
+          <Link className="link" to="/">About Me</Link>
           <Link className="link" to="/projects">Projects</Link> 
-          <Link className="link" to="#contact">Contact Info</Link>
+          {/* <Link className="link" to="#contact">Contact Info</Link> */}
 
     
           </ul>
