@@ -18,18 +18,18 @@ An updated collection of projects from Bootcamp created with React
 
 To check the project, I worked on click on these links: 
 
-GitHub: 
+GitHub: https://github.com/NBP77/Professional-Portfolio
 
-GitHub pages: 
+GitHub pages: https://nbp77.github.io/Professional-Portfolio/#/
 
 ## Usage
 
 
 Examples:
 
--Functional nav and contact bar
+-Functional nav and footer
 
--Href directing you to ids on the page
+-Link tags directing you to render other components on the page 
 
 -Clickable profile picture to social media 
 
@@ -41,4 +41,4 @@ Examples:
 
 ## Credits
 
-Bulma is one of my new fav tools 
+REACT!!!
