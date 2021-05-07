@@ -7,7 +7,6 @@ header {
     color: var(--slime-green);
    
 }
-  
 
 
 .nav-links {
@@ -15,7 +14,7 @@ header {
 
 }
 
-.nav-links li { 
+.nav-links .link { 
     display: inline-block;
     padding: 10px;
     font-weight: bold;
@@ -23,10 +22,18 @@ header {
 }
 
 
-.nav-links li a {
+.nav-links .link  {
     transition: all 0.3s ;  
 }
 
-.nav-links li a:hover {
+.nav-links .link:hover {
     color: var(--slime-green);
 }
+/* 
+.link  {
+    color: var(--slime-green);
+}
+
+.link  {
+
+} */

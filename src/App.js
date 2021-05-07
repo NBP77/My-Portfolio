@@ -1,24 +1,22 @@
 import React from "react";
-import Main from "./components/Main/index.js";
-import Header from "./components/Header/index.js";
-import Footer from "./components/Footer/index.js";
-
-
+import Home from "./components/Home";
+import Header from "./components/Header";
+import Footer from "./components/Footer";
+import { HashRouter, Route } from "react-router-dom";
 
 function App() {
   return (
-   
-      <div>
+    <div>
+      <HashRouter>
         <Header />
-       
-          <Main />
-        
-        
+        <Route exact path="/home">
+          <Home />
+        </Route>
+        {/* <Route exact path="/projects" component={Projects} /> */}
         <Footer />
-      </div>
-
+      </HashRouter>
+    </div>
   );
 }
-
 
 export default App;
