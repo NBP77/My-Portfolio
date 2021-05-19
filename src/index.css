@@ -4,21 +4,3 @@
     padding: 0p;
 }
 
-:root {  
-    --slime-green: #26991e ;
-    --silver: #D2D3CE ;
-    --black: #2C344B ;
-    
-
-
-}
-
-body { font-family:'Ramabhadra', sans-serif;
-    color: var(--black); 
-    font-weight: 500; 
-    font-size: 16px; 
-    text-decoration: none;
-    background-color: var(--black);
-    display: flex; flex-direction: column;
-    min-height: 100vh;
-}
