@@ -1,15 +1,14 @@
 import React from "react";
 import "./style.css";
-import background from '../../imgs/ocean-background.jpg';
+
 
 function Home() {
   return (
     <div>
-      <div className="container">
-        <div styles={{backgroundImage: `url(${background})`}}></div>
-      </div>
+      <section className="hero is-fullheight is-danger"></section>
     </div>
   );
 }
 
 export default Home;
+

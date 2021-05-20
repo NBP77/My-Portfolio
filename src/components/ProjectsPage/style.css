@@ -32,7 +32,7 @@ img {
   }
 
   .text {
-    background-color: var(--slime-green);
+    background-color: green;
     color: white;
     font-size: 16px;
     padding: 16px 32px;
