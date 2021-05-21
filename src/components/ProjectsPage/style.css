@@ -1,3 +1,20 @@
+.background {
+  background-image: url("../../imgs/ocean-background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+}
+
+.projects-title {
+  display: flex;
+  justify-content: center;
+  font-family: 'Poppins', sans-serif;
+  letter-spacing: 10px;
+  font-size: 100px;
+  opacity: 0.9;
+  color: var(--foam)
+}
+
 .card  {
     border-radius: 7px;
 }
@@ -22,18 +39,14 @@ img {
     text-align: center;
   }
   
-
-  /* figure:hover img {
-    opacity: 0.3;
-  } */
   
   figure:hover .middle {
-    opacity: 1;
+    opacity: 0.9;
   }
 
   .text {
-    background-color: green;
-    color: white;
+    background-color: var(--light-blue);
+    color: var(--foam);
     font-size: 16px;
     padding: 16px 32px;
   }  

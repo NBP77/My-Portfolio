@@ -10,11 +10,14 @@ import boilerplateGif from "../../imgs/boilerplateGif .gif";
 
 function ProjectsPage() {
   return (
-    <div>
+    <div className="background">
       <div className="container">
+      <div className="projects-title">
+          <h1>My projects</h1>
+        </div>
         <div className="section">
           <div className="row columns is-multiline">
-          <div className="column is-12">
+            <div className="column is-12">
               <div className="card large">
                 <div className="card-image">
                   <figure className="image is-16by9">
@@ -23,7 +26,6 @@ function ProjectsPage() {
                       target="_blank"
                     >
                       <img src={boilerplateGif} alt="boilerplate" />
-
                     </a>
                   </figure>
                 </div>
@@ -32,10 +34,11 @@ function ProjectsPage() {
                     <div className="media-content">
                       <p className="title is-4 no-padding">boilerplate</p>
                       <p className="subtitle is-6">
-                        A one stop shop for boilerplate code making life easier for developers.
+                        A one stop shop for boilerplate code making life easier
+                        for developers.
                       </p>
-                       <p className="subtitle is-6">
-                        Techs: Full MERN stack application 
+                      <p className="subtitle is-6">
+                        Techs: Full MERN stack application
                       </p>
                     </div>
                   </div>
@@ -66,9 +69,7 @@ function ProjectsPage() {
                         An application gives the user information about nearby
                         parks while also giving the user a local weather update.
                       </p>
-                       <p className="subtitle is-6">
-                        Techs: 
-                      </p>
+                      <p className="subtitle is-6">Techs:</p>
                     </div>
                   </div>
                 </div>
@@ -98,9 +99,7 @@ function ProjectsPage() {
                         customize daily task by also giving the correct time
                         brought by Moment.js.
                       </p>
-                      <p className="subtitle is-6">
-                        Techs: 
-                      </p>
+                      <p className="subtitle is-6">Techs:</p>
                     </div>
                   </div>
                 </div>
@@ -132,9 +131,7 @@ function ProjectsPage() {
                         functionality showing the user POST, GET, PUT and DELETE
                         routes.
                       </p>
-                      <p className="subtitle is-6">
-                        Techs: 
-                      </p>
+                      <p className="subtitle is-6">Techs:</p>
                     </div>
                   </div>
                 </div>
@@ -164,9 +161,7 @@ function ProjectsPage() {
                         search touring scheduling of their favorite artists and
                         save concerts to their profile.
                       </p>
-                      <p className="subtitle is-6">
-                        Techs: 
-                      </p>
+                      <p className="subtitle is-6">Techs:</p>
                     </div>
                   </div>
                 </div>
@@ -196,9 +191,7 @@ function ProjectsPage() {
                         that allows you to add and subtract expenses online and
                         offline.
                       </p>
-                      <p className="subtitle is-6">
-                        Techs: 
-                      </p>
+                      <p className="subtitle is-6">Techs:</p>
                     </div>
                   </div>
                 </div>
@@ -227,9 +220,7 @@ function ProjectsPage() {
                         This application is a Employee Directory where a user
                         can search and filter employees from name top or bottom.
                       </p>
-                      <p className="subtitle is-6">
-                        Techs: 
-                      </p>
+                      <p className="subtitle is-6">Techs:</p>
                     </div>
                   </div>
                 </div>

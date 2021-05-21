@@ -1,31 +1,16 @@
 header {
+    padding: 15px;
+    font-size: 20px;
+}
+
+ul {
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    padding: 30px;
-    font-size: 40px;
-    color: var(--slime-green);
-   
+    padding: 15px;
 }
 
-
-.nav-links {
-    list-style: none;
-
-}
-
-.nav-links .link { 
-    display: inline-block;
-    padding: 10px;
-    font-weight: bold;
-    
-}
-
-
-.nav-links .link  {
+.link {
     transition: all 0.3s ;  
 }
 
-.nav-links .link:hover {
-    color: var(--slime-green);
-}
+

@@ -1,29 +1,9 @@
 footer {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 30px;
-    margin-top: auto;
-    font-size: 40px;
-    color: var(--slime-green);
-}
-
-
-.contact { 
-    list-style: none;     
-}
-
-.contact li {
-    display: inline-block;
-    padding: 10px;
-    font-weight: bold;
-   
+    padding: 15px;
+    font-size: 20px;
 }
 
 .contact li a {
     transition: all 0.3s ;  
 }
 
-.contact li a:hover {
-    color: var(--slime-green);
-}

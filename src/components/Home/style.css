@@ -1,4 +1,28 @@
-/* .hero{
-    background-image: url(../../imgs/ocean-background.jpg);
-    
-  } */
+.background {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+  
+  
+  .name {
+      display: flex;
+      justify-content: center;
+      font-family: 'Poppins', sans-serif;
+      letter-spacing: 10px;
+      font-size: 100px;
+      opacity: 0.9;
+      color: var(--foam)
+  }
+
+  .outer-box {
+      background-color: var(--deep-blue);
+  }
+
+  .about-me {
+      border: var(--teal-blue);
+      border-style: solid;
+      border-width: 5px;
+      border-radius: 5px;
+  }
+
+
