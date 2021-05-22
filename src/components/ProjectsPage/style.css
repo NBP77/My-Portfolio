@@ -2,7 +2,10 @@
   background-image: url("../../imgs/ocean-background.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
-
+}
+.container {
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 .projects-title {
@@ -11,7 +14,7 @@
   font-family: 'Poppins', sans-serif;
   letter-spacing: 10px;
   font-size: 100px;
-  opacity: 0.9;
+  
   color: var(--foam)
 }
 

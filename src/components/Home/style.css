@@ -2,26 +2,40 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
-  
-  
+
+.container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+    
   .name {
       display: flex;
       justify-content: center;
       font-family: 'Poppins', sans-serif;
       letter-spacing: 10px;
       font-size: 100px;
-      opacity: 0.9;
       color: var(--foam)
   }
 
-  .outer-box {
-      background-color: var(--deep-blue);
+  .profile-pic {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      
   }
 
+  .img {
+    border: var(--deep-blue);
+    border-style: solid;
+    border-width: 7px;
+    border-radius: 5px;
+  }
+
+
   .about-me {
-      border: var(--teal-blue);
+      border: var(--deep-blue);
       border-style: solid;
-      border-width: 5px;
+      border-width: 7px;
       border-radius: 5px;
   }
 

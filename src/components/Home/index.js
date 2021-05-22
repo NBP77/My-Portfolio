@@ -1,22 +1,23 @@
 import React from "react";
 import "./style.css";
-import oceanBackground from "../../imgs/ocean-background.jpg";
+// import oceanBackground from "../../imgs/ocean-background.jpg";
+import profilePic from "../../imgs/linkedInPic.jpg";
 
 function Home() {
   return (
-    <figure className="background" style={{ backgroundImage: `url(${oceanBackground})` }}> 
+  <div> 
     <div className="container is-fullhd">
        <div className="name">
           <h1>Nick Pendergast</h1>
         </div>
       <section className="section">
-        <div className="columns"> 
-          <div className="column is-6 box">Profile pic 
-            <figure>
-              <img />
+        <div className="columns is-vcentered"> 
+          <div className="column is-6 profile-pic">
+            <figure> 
+              <img className="img" src={profilePic} alt="profilePic" />
             </figure>
           </div>
-          <div className="column is-6 box outer-box">
+          <div className="column is-6 \ outer-box">
             <div className="about-me box">
               <h1 className="title is-4">About Me:</h1>
               <p>Welcome to my portfolio!
@@ -38,7 +39,7 @@ function Home() {
         </div>
       </section>
     </div>
-</figure>
+</div>
   );
 }
 

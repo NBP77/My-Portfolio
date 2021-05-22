@@ -1,9 +1,19 @@
 footer {
     padding: 15px;
-    font-size: 20px;
+    font-size: 27px;
+    font-family: 'Poppins', sans-serif;
+    color: var(--foam);
+
 }
 
-.contact li a {
+li a {
     transition: all 0.3s ;  
+    color: var(--foam);
+    
 }
 
+li a:hover {
+    color: var(--yellow);
+  }
+
+ 

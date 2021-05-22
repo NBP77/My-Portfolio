@@ -6,7 +6,7 @@ import eecommerceBackend from "../../imgs/eecommerceBackend.png";
 import groupie from "../../imgs/groupie.png";
 import budgetTracker from "../../imgs/budgetTracker.png";
 import employeeDirectory from "../../imgs/employeeDirectory.png";
-import boilerplateGif from "../../imgs/boilerplateGif .gif";
+import boilerplateGif from "../../imgs/boilerplate.gif";
 
 function ProjectsPage() {
   return (
