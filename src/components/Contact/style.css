@@ -1,0 +1,60 @@
+.contact-me {
+    display: flex;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 10px;
+    font-size: 100px;
+    color: var(--foam) 
+}
+
+.email-intro {
+    display: flex;
+    justify-content: center;
+    font-family: 'Play', sans-serif;
+    
+}
+
+.parent-column {
+    column-gap: 15px;
+
+}
+
+.input-form{
+    background-color: var(--foam);
+    border: var(--deep-blue);
+    border-style: solid;
+    border-width: 7px;
+    border-radius: 5px;
+    padding: 30px ;
+
+    
+    
+}
+
+label {
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+
+.button {
+    margin-top: 10px;
+
+}
+
+.contact-container{
+    background-color: var(--foam);
+    border: var(--deep-blue);
+    border-style: solid;
+    border-width: 7px;
+    border-radius: 5px;
+    padding: 30px ;
+    
+    
+
+}
+
+.contact-title {
+    display: flex;
+    justify-content: center;
+}

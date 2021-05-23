@@ -13,7 +13,7 @@ function ProjectsPage() {
     <div className="background">
       <div className="container">
       <div className="projects-title">
-          <h1>My projects</h1>
+          <h1>My Projects</h1>
         </div>
         <div className="section">
           <div className="row columns is-multiline">
