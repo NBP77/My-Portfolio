@@ -1,44 +1,29 @@
-# React-Portfolio
-
-An updated collection of projects from Bootcamp created with React 
+# My-Portfolio
 
 ## Description
 
--The main goal for this project was to create a portfolio website with React that can hold some of the projects I created during this program. 
- 
--Each img has a link to my projects.
- 
--The whole UI has been updated using a CSS framework called Bulma and React
-
--Bulma aloud me to position containers and tiles easily while also giving me a built in mobile responsive site
-
--The site still has to some work to be done but is deff an upgrade from the former
-
-## Installation
-
-To check the project, I worked on click on these links: 
-
-GitHub: https://github.com/NBP77/Professional-Portfolio
-
-GitHub pages: https://nbp77.github.io/Professional-Portfolio/#/
+Hello and welcome to my professional portfolio! This website has been created to showcase all my projects and assignments that I have completed during the Penn LPS Full stack development Bootcamp that I recently graduated from! On the website you will be able to learn more about me, the technologies I learned/used and some of the applications I built. Right now, all the applications are from the bootcamp course work but hopefully soon I will have some applications on there that I have built outside of the class. The applications I am most proud of are the 3 projects we as a team were able to complete and build. For every project I worked on not only was I a lead developer but also a project manager. Please feel free to check out my professional portfolio by clicking on the “Usage” links down below!   
 
 ## Usage
 
+To view my work click on the deployed link down below. After that you will be directed to the home page where you can navigate the website and learn more about me and my projects!  
 
-Examples:
+![Home page](./src/imgs/screenshotofsite.png)
 
--Functional nav and footer
+GitHub pages: https://nbp77.github.io/Professional-Portfolio/#/
 
--Link tags directing you to render other components on the page 
+## Technologies used:
 
--Clickable profile picture to social media 
+- React 
+- Javascript 
+- Bulma 
+- CSS
+- emailJS
 
--Hover effects on clickable imgs and links
 
--Updated clickable screenshots to direct links 
+## Questions
 
--Semantic HTML elements 
+For any questions please do not hesitate to reach out at:
 
-## Credits
+nbp77@outlook.com 
 
-REACT!!!
