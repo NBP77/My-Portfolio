@@ -69,7 +69,7 @@ function ProjectsPage() {
                         An application gives the user information about nearby
                         parks while also giving the user a local weather update.
                       </p>
-                      <p className="subtitle is-6">Techs:</p>
+                      <p className="subtitle is-6">Techs: HTML, CSS, Bulma and JavaScript.</p>
                     </div>
                   </div>
                 </div>
@@ -99,7 +99,7 @@ function ProjectsPage() {
                         customize daily task by also giving the correct time
                         brought by Moment.js.
                       </p>
-                      <p className="subtitle is-6">Techs:</p>
+                      <p className="subtitle is-6">Techs: HTML, CSS, Bootstrap, MomentJS and JavaScript.</p>
                     </div>
                   </div>
                 </div>
@@ -131,7 +131,7 @@ function ProjectsPage() {
                         functionality showing the user POST, GET, PUT and DELETE
                         routes.
                       </p>
-                      <p className="subtitle is-6">Techs:</p>
+                      <p className="subtitle is-6">Techs: Javascript, MySQL and Sequelize.</p>
                     </div>
                   </div>
                 </div>
@@ -161,7 +161,7 @@ function ProjectsPage() {
                         search touring scheduling of their favorite artists and
                         save concerts to their profile.
                       </p>
-                      <p className="subtitle is-6">Techs:</p>
+                      <p className="subtitle is-6">Techs: HTML, CSS, MySQL, Sequelize, Handelbars.js and many more...</p>
                     </div>
                   </div>
                 </div>
@@ -191,7 +191,7 @@ function ProjectsPage() {
                         that allows you to add and subtract expenses online and
                         offline.
                       </p>
-                      <p className="subtitle is-6">Techs:</p>
+                      <p className="subtitle is-6">Techs: MongoDB, Mongoose, IndexedDB, Javascript, chart.jsExpress, Node and Compression.JS.</p>
                     </div>
                   </div>
                 </div>
@@ -220,7 +220,7 @@ function ProjectsPage() {
                         This application is a Employee Directory where a user
                         can search and filter employees from name top or bottom.
                       </p>
-                      <p className="subtitle is-6">Techs:</p>
+                      <p className="subtitle is-6">Techs: React, Javascript and Axios</p>
                     </div>
                   </div>
                 </div>

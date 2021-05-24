@@ -3,16 +3,11 @@ import "./style.css";
 import emailjs from "emailjs-com";
 
 function ContactPage() {
+  
   function sendEmail(e) {
     e.preventDefault();
 
-    emailjs
-      .sendForm(
-        "service_s1o0xa7",
-        "template_h0zdksg",
-        e.target,
-        "user_xjR1fWF9X75shjAcDRBl1"
-      )
+    emailjs.sendForm("service_s1o0xa7","template_h0zdksg",e.target,"user_xjR1fWF9X75shjAcDRBl1")
       .then(
         (result) => {
           console.log(result.text);
@@ -32,7 +27,7 @@ function ContactPage() {
         </div>
         <section className="section">
           <div className="columns parent-column is-justify-content-center">
-            <div onSubmit={sendEmail} className="column is-6 input-form">
+            <form onSubmit={sendEmail} className="column is-6 input-form">
               <div className="title is-4 email-intro">
                 This form sends an email to my work email!
               </div>
@@ -71,7 +66,7 @@ function ContactPage() {
                 name="message"
               ></textarea>
               <button className="button is-rounded">Send Email</button>
-            </div>
+            </form>
             <div className="column is-6 contact-container">
               <div className="title is-4 contact-title">Methods of contact</div>
 
