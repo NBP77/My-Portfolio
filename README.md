@@ -10,7 +10,7 @@ To view my work click on the deployed link down below. After that you will be di
 
 ![Home page](./src/imgs/screenshotofsite.png)
 
-GitHub pages: https://nbp77.github.io/Professional-Portfolio/#/
+GitHub pages: https://nbp77.github.io/My-Portfolio/#/
 
 ## Technologies used:
 
