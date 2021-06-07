@@ -1,60 +1,96 @@
 .contact-me {
-    display: flex;
-    justify-content: center;
-    font-family: 'Poppins', sans-serif;
-    letter-spacing: 10px;
-    font-size: 100px;
-    color: var(--foam) 
+  display: flex;
+  justify-content: center;
+  font-family: 'Open Sans', sans-serif;
+  letter-spacing: 12px;
+  font-size: 100px;
+  color: var(--foam);
+  font-weight: 100px;
+}
+
+span {
+  transition: all 1.5s;
+  cursor: pointer;
+}
+
+.c:hover {
+  color: var(--yellow);
+  transition: all 0.5s;
+}
+
+.o:hover {
+  color: var(--yellow);
+  transition: all 0.3s;
+}
+
+.n:hover {
+  color: var(--yellow);
+  transition: all 0.3s;
+}
+
+.t:hover {
+  color: var(--yellow);
+  transition: all 0.3s;
+}
+
+.a:hover {
+  color: var(--yellow);
+  transition: all 0.3s;
+}
+
+.t:hover {
+  color: var(--yellow);
+  transition: all 0.3s;
+}
+
+.m:hover {
+  color: var(--yellow);
+  transition: all 0.3s;
+}
+
+.e:hover {
+  color: var(--yellow);
+  transition: all 0.3s;
 }
 
 .email-intro {
-    display: flex;
-    justify-content: center;
-    /* font-family: 'Play', sans-serif; */
-    
+  display: flex;
+  justify-content: center;
+  /* font-family: 'Play', sans-serif; */
 }
 
 .parent-column {
-    column-gap: 15px;
-
+  column-gap: 15px;
 }
 
-.input-form{
-    background-color: var(--foam);
-    border: var(--deep-blue);
-    border-style: solid;
-    border-width: 7px;
-    border-radius: 5px;
-    padding: 30px ;
-
-    
-    
+.input-form {
+  background-color: var(--foam);
+  border: var(--deep-blue);
+  border-style: solid;
+  border-width: 7px;
+  border-radius: 5px;
+  padding: 30px;
 }
 
 label {
-    padding-top: 10px;
-    padding-bottom: 5px;
+  padding-top: 10px;
+  padding-bottom: 5px;
 }
-
 
 .button {
-    margin-top: 10px;
-
+  margin-top: 10px;
 }
 
-.contact-container{
-    background-color: var(--foam);
-    border: var(--deep-blue);
-    border-style: solid;
-    border-width: 7px;
-    border-radius: 5px;
-    padding: 30px ;
-    
-    
-
+.contact-container {
+  background-color: var(--foam);
+  border: var(--deep-blue);
+  border-style: solid;
+  border-width: 7px;
+  border-radius: 5px;
+  padding: 30px;
 }
 
 .contact-title {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }

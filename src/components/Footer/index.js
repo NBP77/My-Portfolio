@@ -7,7 +7,6 @@ function Footer() {
       <footer>
         
         <ul class="contact" id="contact">
-          <li>(860) 248-1586</li>
           <li>
             <a
               href="https://drive.google.com/file/d/1iQpxRWDESz4-ZRI3tXsMnMG9lFHdc_DA/view?usp=sharing"

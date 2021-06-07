@@ -7,7 +7,22 @@ function Home() {
     <div>
       <div className="container is-fullhd">
         <div className="name">
-          <h1>Nick Pendergast</h1>
+          <h1 className="my-name">
+            <span className="n">N</span>
+            <span className="i">i</span>
+            <span className="c">c</span>
+            <span className="k">k </span>
+            <span className="p">P</span>
+            <span className="e">e</span>
+            <span className="n">n</span>
+            <span className="d">d</span>
+            <span className="e">e</span>
+            <span className="r">r</span>
+            <span className="g">g</span>
+            <span className="a">a</span>
+            <span className="s">s</span>
+            <span className="t">t</span>
+          </h1>
         </div>
         <section className="section">
           <div className="columns is-vcentered">

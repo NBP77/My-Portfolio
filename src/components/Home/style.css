@@ -1,39 +1,110 @@
-
 .container {
-    margin-top: 50px;
-    margin-bottom: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
-    
-  .name {
-      display: flex;
-      justify-content: center;
-      font-family: 'Poppins', sans-serif;
-      letter-spacing: 10px;
-      font-size: 100px;
-      color: var(--foam)
-  }
 
-  .profile-pic {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      
-  }
+.name {
+  display: flex;
+  justify-content: center;
+  font-family: 'Open Sans', sans-serif;
+  letter-spacing: 12px;
+  font-size: 100px;
+  color: var(--foam);
+  font-weight: 100px;
+}
 
-  .img {
-    border: var(--deep-blue);
-    border-style: solid;
-    border-width: 7px;
-    border-radius: 5px;
-  }
+span {
+  transition: all 1.5s;
+  cursor: pointer;
+}
 
+.n:hover {
+  color: var(--yellow);
+  transition: all 0.5s;
+}
 
-  .about-me {
-      border: var(--deep-blue);
-      border-style: solid;
-      border-width: 7px;
-      border-radius: 5px;
-      background-color: var(--foam);
-  }
+.i:hover {
+  color: var(--yellow);
+  transition: all 0.3s;
+}
 
+.c:hover {
+  color: var(--yellow);
+  transition: all 0.3s;
+}
 
+.k:hover {
+  color: var(--yellow);
+  transition: all 0.3s;
+}
+
+.p:hover {
+  color: var(--yellow);
+  transition: all 0.3s;
+}
+
+.e:hover {
+  color: var(--yellow);
+  transition: all 0.3s;
+}
+
+.n:hover {
+  color: var(--yellow);
+  transition: all 0.3s;
+}
+
+.d:hover {
+  color: var(--yellow);
+  transition: all 0.3s;
+}
+
+.e:hover {
+  color: var(--yellow);
+  transition: all 0.3s;
+}
+
+.r:hover {
+  color: var(--yellow);
+  transition: all 0.3s;
+}
+
+.g:hover {
+  color: var(--yellow);
+  transition: all 0.3s;
+}
+
+.a:hover {
+  color: var(--yellow);
+  transition: all 0.3s;
+}
+
+.s:hover {
+  color: var(--yellow);
+  transition: all 0.3s;
+}
+
+.t:hover {
+  color: var(--yellow);
+  transition: all 0.3s;
+}
+
+.profile-pic {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.img {
+  border: var(--deep-blue);
+  border-style: solid;
+  border-width: 7px;
+  border-radius: 5px;
+}
+
+.about-me {
+  border: var(--deep-blue);
+  border-style: solid;
+  border-width: 7px;
+  border-radius: 5px;
+  background-color: var(--foam);
+}

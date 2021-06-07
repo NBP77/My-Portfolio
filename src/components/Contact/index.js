@@ -3,11 +3,16 @@ import "./style.css";
 import emailjs from "emailjs-com";
 
 function ContactPage() {
-  
   function sendEmail(e) {
     e.preventDefault();
 
-    emailjs.sendForm("service_s1o0xa7","template_h0zdksg",e.target,"user_xjR1fWF9X75shjAcDRBl1")
+    emailjs
+      .sendForm(
+        "service_s1o0xa7",
+        "template_h0zdksg",
+        e.target,
+        "user_xjR1fWF9X75shjAcDRBl1"
+      )
       .then(
         (result) => {
           console.log(result.text);
@@ -23,7 +28,17 @@ function ContactPage() {
     <div>
       <div className="container is-fullhd">
         <div className="contact-me">
-          <h1>Contact Me</h1>
+          <h1>
+            <span className="c">C</span>
+            <span className="o">o</span>
+            <span className="n">n</span>
+            <span className="t">t</span>
+            <span className="a">a</span>
+            <span className="c">c</span>
+            <span className="t">t </span>
+            <span className="m">M</span>
+            <span className="e">e</span>
+          </h1>
         </div>
         <section className="section">
           <div className="columns parent-column is-justify-content-center">

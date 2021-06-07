@@ -1,9 +1,9 @@
 footer {
-    padding: 15px;
-    font-size: 27px;
-    font-family: 'Poppins', sans-serif;
-    color: var(--foam);
-
+    padding: 20px;
+    font-size: 35px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    letter-spacing: 5px;
 }
 
 li a {
