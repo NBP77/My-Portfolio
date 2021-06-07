@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/My-Portfolio/static/css/main.da0d34f3.chunk.css",
+    "main.css": "/My-Portfolio/static/css/main.256d22b4.chunk.css",
     "main.js": "/My-Portfolio/static/js/main.25a3423a.chunk.js",
     "main.js.map": "/My-Portfolio/static/js/main.25a3423a.chunk.js.map",
     "runtime-main.js": "/My-Portfolio/static/js/runtime-main.cd1c175c.js",
@@ -8,7 +8,7 @@
     "static/js/2.571bc6c3.chunk.js": "/My-Portfolio/static/js/2.571bc6c3.chunk.js",
     "static/js/2.571bc6c3.chunk.js.map": "/My-Portfolio/static/js/2.571bc6c3.chunk.js.map",
     "index.html": "/My-Portfolio/index.html",
-    "static/css/main.da0d34f3.chunk.css.map": "/My-Portfolio/static/css/main.da0d34f3.chunk.css.map",
+    "static/css/main.256d22b4.chunk.css.map": "/My-Portfolio/static/css/main.256d22b4.chunk.css.map",
     "static/js/2.571bc6c3.chunk.js.LICENSE.txt": "/My-Portfolio/static/js/2.571bc6c3.chunk.js.LICENSE.txt",
     "static/media/boilerplate.3a18e6e7.gif": "/My-Portfolio/static/media/boilerplate.3a18e6e7.gif",
     "static/media/budgetTracker.5234381a.png": "/My-Portfolio/static/media/budgetTracker.5234381a.png",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.cd1c175c.js",
     "static/js/2.571bc6c3.chunk.js",
-    "static/css/main.da0d34f3.chunk.css",
+    "static/css/main.256d22b4.chunk.css",
     "static/js/main.25a3423a.chunk.js"
   ]
 }
