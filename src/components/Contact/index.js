@@ -89,8 +89,7 @@ function ContactPage() {
                 </a>
                 <a
                   class="list-item"
-                  href="https://www.pdfescape.com/shared/?C3C2FB6E2D150312CC34A2EDF9BA55C7B875E02D1B966149"
-                  target="_blank"
+                  href="https://drive.google.com/file/d/1iQpxRWDESz4-ZRI3tXsMnMG9lFHdc_DA/view?usp=sharing"
                   target="_blank"
                 >
                   Resume
