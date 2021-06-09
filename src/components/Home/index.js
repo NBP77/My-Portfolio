@@ -61,7 +61,7 @@ function Home() {
                   technical recruiter, needless to say I am very happy to have
                   made a career change as I actually have fun when I am coding
                   and am extremely excited to learn and grow as an entry level
-                  developer in the professional world of Software Engineer.
+                  developer in the professional world of Software Engineering.
                 </p>
               </div>
             </div>
