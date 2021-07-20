@@ -7,6 +7,7 @@ import groupie from "../../imgs/groupie.png";
 import budgetTracker from "../../imgs/budgetTracker.png";
 import employeeDirectory from "../../imgs/employeeDirectory.png";
 import boilerplateGif from "../../imgs/boilerplate.gif";
+import warzoneGame from "../../imgs/warzoneGamePic.png";
 
 function ProjectsPage() {
   return (
@@ -28,6 +29,34 @@ function ProjectsPage() {
         </div>
         <div className="section">
           <div className="row columns is-multiline">
+            <div className="column is-12">
+              <div className="card large">
+                <div className="card-image">
+                  <figure className="image is-16by9">
+                    <a
+                      href="https://nbp77.github.io/warzone-game/#/"
+                      target="_blank"
+                    >
+                      <img src={warzoneGame} alt="Warzone Game" />
+                    </a>
+                  </figure>
+                </div>
+                <div className="card-content">
+                  <div className="media">
+                    <div className="media-content">
+                      <p className="title is-4 no-padding">Warzone Sound Game</p>
+                      <p className="subtitle is-6">
+                        A Call of Duty Warzone quiz game where the user has to guess the gun based on how it sounds when fired.
+                        Think you know the sound of your favorite gun?!?!
+                      </p>
+                      <p className="subtitle is-6">
+                        Techs: React and many more
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
             <div className="column is-12">
               <div className="card large">
                 <div className="card-image">
