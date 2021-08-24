@@ -104,7 +104,7 @@ function ContactPage() {
                 </a>
                 <a
                   class="list-item"
-                  href="https://drive.google.com/file/d/1iQpxRWDESz4-ZRI3tXsMnMG9lFHdc_DA/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1TbbbikAfa_3LiyYf0L4CiaArl3NRb7zz/view?usp=sharing"
                   target="_blank"
                 >
                   Resume
